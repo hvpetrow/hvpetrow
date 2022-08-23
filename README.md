@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hristo-petrov-8b9a74234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hristo-petrov-8b9a74234" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hvpetrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hvpetrow" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19829893/hvpetrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hvpetrow" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hvpetrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hvpetrow" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100023736992978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hvpetrow" height="30" width="40" /></a>
 </p>
