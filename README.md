@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hristo Petrov</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria/Germany.</h3>
+<h3 align="center">A passionate frontend developer from Bulgaria(borned)/Germany(current__country).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
